@@ -1,23 +1,43 @@
-🚀 Welcome to @SanjayaWeerasinghe's Code Galaxy!
+# 👋 Hi there, I'm [Your Name]
 
-🌟 About Me:
-- I'm Sanjaya, a trailblazer in the blockchain universe, specializing in Solana and TON blockchain development.
-- Passionate about the backend of things — whether it's digging into smart contracts or optimizing decentralized applications.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-🛠️ What I'm Up To:
-- Currently, I'm deepening my expertise in cutting-edge blockchain technologies and exploring how they can transform traditional industries.
-- Experimenting with new backend solutions to enhance scalability and security in decentralized networks.
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-🤝 Let's Collaborate:
-- Keen to partner on projects that push the boundaries of what's possible with blockchain and backend tech.
-- If you're looking to build something revolutionary, let's sync up!
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-📬 Reach Out:
-- You can ping me here or drop a line at [Your Email] for tech talks, project ideas, or just to say hi!
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="Streak Stats" />
+</p>
 
-🔍 Fun Fact:
-- When not coding, I’m probably solving puzzles or geeking out over the latest tech gadgets!
+## 📈 Activity Graph
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Feel free to browse my repositories and let's get connected!
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
+## 🎯 Current Focus
+- 🔭 I'm currently working on [Current Project]
+- 🌱 I'm currently learning [Technology/Skill]
+- 👯 I'm looking to collaborate on [Type of Projects]
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated with your blog posts -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
