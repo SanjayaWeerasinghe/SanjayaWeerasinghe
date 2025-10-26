@@ -351,16 +351,6 @@ console.log("☕ Coffee Makes Me Code");
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
 **"First, solve the problem. Then, write the code."** – John Johnson
 
 ### Show some ❤️ by starring some of my repositories!
