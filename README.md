@@ -19,10 +19,10 @@
 ```javascript
 const developer = {
     name: "Sanjaya Weerasinghe",
-    role: "ERP Solutions Engineer & Blockchain Advisory Team Lead",
+    role: "ERP Solutions Engineer & Blockchain Team Lead",
     companies: {
         current: [
-            "Advantage Group Australasia - Blockchain Advisory Team Lead",
+            "Advantage Group Australasia - Blockchain Team Lead(Part Time)",
             "ProLogics IT Solutions - Associate Software Engineer (ERP)"
         ]
     },
@@ -212,7 +212,7 @@ console.log("☕ Coffee Makes Me Code");
 
 ## 💼 Professional Experience
 
-### 🏢 Blockchain Team Lead / Researcher
+### 🏢 Blockchain Team Lead / Researcher (Part Time)
 **Advantage Group Australasia** | Sydney, Australia | *June 2025 – Present*
 
 - 🎯 Lead a team of blockchain developers creating a Blockchain ecosystem
