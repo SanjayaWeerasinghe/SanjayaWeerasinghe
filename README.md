@@ -212,7 +212,7 @@ console.log("☕ Coffee Makes Me Code");
 
 ## 💼 Professional Experience
 
-### 🏢 Blockchain Advisory Team Lead / Researcher
+### 🏢 Blockchain Team Lead / Researcher
 **Advantage Group Australasia** | Sydney, Australia | *June 2025 – Present*
 
 - 🎯 Lead a team of blockchain developers creating a Blockchain ecosystem
