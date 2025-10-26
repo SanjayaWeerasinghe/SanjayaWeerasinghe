@@ -20,6 +20,7 @@ struct Developer {
     role: &'static str,
     languages: Vec<&'static str>,
     blockchain: BlockchainExpertise,
+    other_skills: Vec<&'static str>,
     current_focus: &'static str,
 }
 
@@ -34,25 +35,30 @@ impl Developer {
         Developer {
             name: "Sanjaya Weerasinghe",
             role: "Blockchain Developer & MEV Researcher",
-            languages: vec!["Rust", "TypeScript", "JavaScript", "Python", "Solidity"],
+            languages: vec!["Rust", "TypeScript", "JavaScript", "Python", "C#"],
             blockchain: BlockchainExpertise {
-                platforms: vec!["Solana", "Polkadot", "Ethereum", "Substrate"],
+                platforms: vec!["Solana", "Polkadot", "Substrate"],
                 specializations: vec![
-                    "Smart Contracts",
-                    "DeFi Protocols",
-                    "MEV (Maximal Extractable Value)",
-                    "Web3 Development",
-                    "Blockchain Infrastructure"
+                    "MEV Bots (Jito Labs)",
+                    "Solana Web3 SDK",
+                    "Polkadot SDK Solochain",
+                    "Smart Contract Development",
+                    "DeFi Protocols"
                 ],
                 tools: vec![
-                    "Anchor Framework",
                     "Solana Web3.js",
                     "Polkadot SDK",
-                    "Substrate",
-                    "Ethers.js",
-                    "Hardhat"
+                    "Substrate Framework",
+                    "Jito MEV",
+                    "Anchor Framework"
                 ],
             },
+            other_skills: vec![
+                "Web Scraping (Python)",
+                "React Development",
+                "Desktop Applications (C#)",
+                "Markdown Processing"
+            ],
             current_focus: "Building MEV bots and exploring Solana/Polkadot ecosystems",
         }
     }
@@ -68,7 +74,7 @@ impl Developer {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Blockchain & Web3
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
@@ -153,9 +159,15 @@ impl Developer {
 
 <div align="center">
 
-[![MEV Bot](https://img.shields.io/badge/🤖_MEV_Bot-Solana-14F195?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/mev-bot-test)
-[![Polkadot SDK](https://img.shields.io/badge/⛓️_Polkadot_SDK-Solochain-E6007A?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/polkadot-sdk-solochain-template-test)
-[![Solana Web3](https://img.shields.io/badge/🌐_Solana_Web3-JavaScript_SDK-14F195?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/solana-web3.js)
+### Blockchain & Web3
+[![MEV Bot](https://img.shields.io/badge/🤖_MEV_Bot-Solana_Testing-14F195?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/mev-bot-test)
+[![Polkadot SDK](https://img.shields.io/badge/⛓️_Polkadot_SDK-Solochain_Template-E6007A?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/polkadot-sdk-solochain-template-test)
+[![Solana Web3](https://img.shields.io/badge/🌐_Solana_Web3.js-JavaScript_SDK-14F195?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/solana-web3.js)
+
+### Development Tools
+[![React Scheduler](https://img.shields.io/badge/⚛️_React_Scheduler-TypeScript-61DAFB?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/react-scheduler-fork)
+[![Markdown Reader](https://img.shields.io/badge/📝_Markdown_Reader-C%23-239120?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/Markdown_Reader_by-Jack_Frost)
+[![Web Scraper](https://img.shields.io/badge/🕷️_Web_Scraper-Python-3776AB?style=for-the-badge)](https://github.com/SanjayaWeerasinghe/WebScraping-New)
 
 </div>
 
