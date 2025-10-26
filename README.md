@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Sanjaya+Weerasinghe;Blockchain+Developer+|+Web3+Enthusiast;Building+the+Decentralized+Future" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Sanjaya%20Weerasinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Blockchain%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20MEV%20Researcher&descAlignY=51&descAlign=50" alt="header"/>
 </div>
 
-<h3 align="center">⛓️ Blockchain Developer | Solana & Polkadot Specialist | MEV Researcher</h3>
-<p align="center">☕ Coffee Makes Me Code</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Building+the+Decentralized+Future+%E2%9B%93%EF%B8%8F;Solana+%26+Polkadot+Specialist+%F0%9F%A6%80;MEV+Bot+Developer+%F0%9F%A4%96;Coffee+Makes+Me+Code+%E2%98%95" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjayaWeerasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SanjayaWeerasinghe?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=SanjayaWeerasinghe&label=Profile%20Views&color=14F195&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SanjayaWeerasinghe?label=Followers&style=for-the-badge&color=E6007A&labelColor=1c1917" alt="followers" />
+  <img src="https://img.shields.io/github/stars/SanjayaWeerasinghe?label=Stars&style=for-the-badge&color=0e75b6&labelColor=1c1917" alt="stars" />
 </p>
 
 ---
@@ -108,39 +110,51 @@ impl Developer {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayaWeerasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaWeerasinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SanjayaWeerasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SanjayaWeerasinghe&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaWeerasinghe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaWeerasinghe&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<details>
+  <summary><b>📈 More Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanjayaWeerasinghe&theme=algolia" alt="Profile Details"/>
+  </p>
+</details>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaWeerasinghe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaWeerasinghe&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayaWeerasinghe&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayaWeerasinghe&custom_title=Sanjaya's%20Contribution%20Graph&bg_color=050F2C&color=14F195&line=E6007A&point=14F195&area_color=14F195&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/SanjayaWeerasinghe/SanjayaWeerasinghe/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## 🔥 Recent Activity
+## 💻 Coding Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -177,44 +191,30 @@ impl Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-username)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🎯 Support My Work
-
-If you like what I do, consider buying me a coffee ☕
-
-<div align="center">
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaya-weerasinghe/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayaWeerasinghe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayarajans26407@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+
 </div>
 
+---
+
 <div align="center">
+
+**"First, solve the problem. Then, write the code."** – John Johnson
 
 ### Show some ❤️ by starring some of my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer"/>
 
 </div>
