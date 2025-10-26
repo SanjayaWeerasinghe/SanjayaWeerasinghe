@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Sanjaya%20Weerasinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ERP%20Solution%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Sanjaya%20Weerasinghe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ERP%20Solutions%20Engineer%20%7C%20Blockchain%20Advisory%20Team%20Lead&descAlignY=51&descAlign=50" alt="header"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=ERP+Solutions+Engineer+%F0%9F%92%BC;MERN+Stack+%7C+Laravel+Expert+%F0%9F%9A%80;Inventory+%7C+Procurement+%7C+Production+%F0%9F%93%A6;Building+Scalable+Business+Solutions+%E2%9A%99%EF%B8%8F;Coffee+Makes+Me+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=ERP+Solutions+%26+Blockchain+Advisory+Team+Lead+%F0%9F%92%BC;MERN+%7C+Laravel+%7C+Hyperledger+Fabric+%F0%9F%9A%80;MRP+%7C+Inventory+%7C+Procurement+%7C+Production+%F0%9F%93%A6;Smart+Contracts+%7C+DeFi+%7C+Enterprise+Blockchain+%E2%9B%93%EF%B8%8F;Building+Scalable+Business+%26+Blockchain+Solutions+%E2%9A%99%EF%B8%8F;Coffee+Makes+Me+Code+%E2%98%95" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,8 +19,13 @@
 ```javascript
 const developer = {
     name: "Sanjaya Weerasinghe",
-    role: "ERP Solution Software Engineer",
-    company: "Building Enterprise Resource Planning Solutions",
+    role: "ERP Solutions Engineer & Blockchain Advisory Team Lead",
+    companies: {
+        current: [
+            "Advantage Group Australasia - Blockchain Advisory Team Lead",
+            "ProLogics IT Solutions - Associate Software Engineer (ERP)"
+        ]
+    },
 
     expertise: {
         erpModules: [
@@ -205,15 +210,107 @@ console.log("☕ Coffee Makes Me Code");
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Blockchain Advisory Team Lead / Researcher
+**Advantage Group Australasia** | Sydney, Australia | *June 2025 – Present*
+
+- 🎯 Lead a team of blockchain developers creating a Blockchain ecosystem
+- 📊 Oversee entire blockchain-based software development life cycle
+- 🔄 Created CI/CD pipeline for blockchain servers
+- 💰 Designed & Developed Digital Notarized Contract Platform (secured USD billion revenue investor)
+- 🪙 Designed counterparty core based tokenization system for custom bitcoin clone
+- 🤖 Developing Blockchain-based AI Lawyer system
+
+**Tech Stack:** Rust, C++, JavaScript, Python, React.js, Express.js, MongoDB, NGINX, Substrate, Counterparty, Claude MCP
+
+---
+
+### 💻 Associate Software Engineer
+**ProLogics IT Solutions** | Nugegoda, Sri Lanka | *September 2024 – Present*
+
+- 📱 Designed offline-ready sales force system for Unilever Distributors in Libya with mobile app sync
+- ⛓️ Developed Hyperledger Fabric permissioned Blockchain-based Inventory Management System
+- 🏭 Built scalable MRP module with Development, Costing, and Production Planning
+- 📦 Created Sales & Distribution, Discounts, Free Issue, Incentive modules (reduced dev time to hours)
+- ⚡ Migrated Laravel system to MERN stack (increased user productivity by 30%+)
+- 📅 Designed Date Picker component that became key feature for closing deals
+
+**Tech Stack:** React, Express.js, Node.js, Laravel, TypeScript, PHP, MongoDB, MySQL, Go, Hyperledger Fabric, Docker
+
+---
+
+### ⛓️ Blockchain Engineer
+**Ranga Technologies** | Colombo, Sri Lanka | *February 2024 – September 2024*
+
+- 🌍 Designed & developed cryptocurrency solutions for 40+ overseas clients
+- 💳 Developed crypto-based payment gateway for company website
+- 🔍 Ethereum smart contract auditing
+- 🔗 Smart contract developments for SDK-less Blockchain systems
+
+**Tech Stack:** Rust, Solidity, TypeScript, Move, Node.js, Next.js, React.js, Ethereum, Solana, SUI, TON, TRON
+
+---
+
+### 🔬 Assistant Researcher
+**Network Softwarization and Security Labs (NetsLab)** | Dublin, Ireland | *December 2022 – December 2023*
+
+- 🧠 Designed low-cost Blockchain-based Hierarchical Federated Learning system
+- 📜 Solidity smart contract deployment and interaction on Ethereum
+- 🔗 Deployed ChainLink Oracle for FL model Aggregator-Blockchain communication
+- 📦 Integrated IPFS for secure data and model storage
+
+**Tech Stack:** Python, Solidity, TypeScript, IPFS, Chainlink, TensorFlow Federated, FastAPI, Ethereum, Docker
+
+<details>
+  <summary><b>📚 Previous Experience</b></summary>
+  <br/>
+
+### ✈️ Software Engineering Intern
+**SriLankan Airlines** | Sri Lanka | *September 2023 – January 2024*
+
+- 🏗️ Developed new Architecture for Federated Learning with Blockchain and IPFS
+- 💰 Designed automated refund calculation system
+- 🌐 Supported SriLankan Airlines new website development
+- 🎨 Designed custom booking widget
+- ⚡ Website performance auditing & strategic SEO optimization
+
+**Tech Stack:** Python, Solidity, TypeScript, IPFS, Chainlink, TensorFlow Federated, FastAPI, Ethereum, Docker
+
+---
+
+### 🖥️ System Engineer - Internship
+**SriLankan Airlines** | Katunayake, Sri Lanka | *April 2022 – July 2022*
+
+- 🌐 WAN/System upgrade project
+- 📦 Application packaging using Thinapp
+- 💻 Developed customized VB script for Windows 10 VM startup menu
+- 📊 Network monitoring using PRTG/Whatsup
+- 🔧 System troubleshooting & airlines network architecture
+
+**Tech Stack:** VMware, VBScript, PRTG, Whatsup, Network Architecture
+
+</details>
+
+---
+
 ## 💼 What I'm Currently Working On
 
+### 🏢 At Advantage Group Australasia (Blockchain Team Lead)
+- ⛓️ Leading blockchain ecosystem development with my team
+- 📜 Building Blockchain-based AI Lawyer system
+- 💰 Developed Digital Notarized Contract Platform (USD billion investor secured)
+- 🪙 Counterparty core tokenization system for custom Bitcoin clone
+
+### 💻 At ProLogics IT Solutions (ERP Engineer)
 - 🏢 Building scalable ERP solutions for enterprise resource management
-- 📦 Developing advanced Inventory & Procurement management systems
-- 🔧 Working with MERN stack and Laravel for full-stack ERP development
-- 🗄️ Implementing complex ORM/ODM patterns with Eloquent & Mongoose
-- ⛓️ Exploring blockchain integration for supply chain transparency
-- 👯 Looking to collaborate on ERP, Full-Stack, and Blockchain projects
-- 💬 Ask me about ERP systems, MERN/Laravel, MRP, Inventory, or Blockchain
+- 📦 Hyperledger Fabric blockchain-based Inventory Management System
+- 🏭 Developed MRP module with Costing & Production Planning
+- ⚡ Migrating Laravel systems to MERN (30%+ productivity boost)
+
+### 🚀 Collaboration & Focus
+- 👯 Looking to collaborate on ERP, Blockchain, DeFi, and Full-Stack projects
+- 💬 Ask me about: ERP Systems, MERN/Laravel, Blockchain Architecture, Hyperledger Fabric, Smart Contracts, MRP, Inventory Management
 - ⚡ Fun fact: Coffee-driven code deployment in production!
 
 ---
